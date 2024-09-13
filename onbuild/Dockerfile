@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.19.4
 MAINTAINER Ahmed Elsabbahy <elsabbahyahmed@yahoo.com>
 
 ENV GOSS_VER v0.2.6
